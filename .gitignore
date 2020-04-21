@@ -39,6 +39,17 @@
 
 # software binary files
 
+*.bak
+*.sopcinfo
+*.qws
+*.rpt
+.qsys_edit/
+db/
+incremental_db/
+niosII/
+output_files/
+greybox_tmp/
+
 /*
 !/*.gitignore
 ##
