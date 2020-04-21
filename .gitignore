@@ -46,7 +46,7 @@
 .qsys_edit/
 db/
 incremental_db/
-niosII/
+NiosII/
 output_files/
 greybox_tmp/
 
@@ -54,7 +54,7 @@ greybox_tmp/
 !/*.gitignore
 ##
 !*.qpf
-!*.qsf
+Ethernet-DE2_115.qsf
 !*.qws
 !*.bdf
 !*.vhd
