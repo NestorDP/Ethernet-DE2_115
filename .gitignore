@@ -49,24 +49,8 @@ incremental_db/
 NiosII/
 output_files/
 greybox_tmp/
-
-/*
-!/*.gitignore
-##
-!*.qpf
 Ethernet-DE2_115.qsf
-!*.qws
-!*.bdf
-!*.vhd
-!*.v
-!*.ptf
-!*.bsf
-!**/class.ptf
-!*.tbd
-!*.sof
-## tbd
 
-!*.tcl
 
 ### C ###
 # Prerequisites
