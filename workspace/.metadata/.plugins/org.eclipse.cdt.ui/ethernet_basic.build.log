@@ -1,0 +1,9 @@
+19:09:23 **** Incremental Build of configuration Nios II for project ethernet_basic ****
+make all 
+Info: Building ../ethernet_basic_bsp/
+make --no-print-directory -C ../ethernet_basic_bsp/
+[BSP build complete]
+[ethernet_basic build complete]
+
+19:09:23 Build Finished (took 114ms)
+
