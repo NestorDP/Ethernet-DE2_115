@@ -1,4 +1,4 @@
 eclipse.preferences.version=1
-newSoftwareExampleWizardPage.defaultLocation=/home/nestor/repositorios/Ethernet-DE2_115/software/ethernet_basic
+newSoftwareExampleWizardPage.defaultLocation=/home/nestor/repositorios/Ethernet-DE2_115/software/SimpleSocketServer
 newSoftwareExampleWizardPage.sopcinfoFile=/home/nestor/repositorios/Ethernet-DE2_115/NiosII.sopcinfo
-newSoftwareExampleWizardPage2.newBspLocation=/home/nestor/repositorios/Ethernet-DE2_115/software/ethernet_basic_bsp
+newSoftwareExampleWizardPage2.newBspLocation=/home/nestor/repositorios/Ethernet-DE2_115/software/SimpleSocketServer_bsp
