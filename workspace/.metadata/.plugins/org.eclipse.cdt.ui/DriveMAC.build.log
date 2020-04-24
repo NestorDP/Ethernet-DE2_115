@@ -1,0 +1,9 @@
+22:36:05 **** Incremental Build of configuration Nios II for project DriveMAC ****
+make all 
+Info: Building ../DriveMAC_bsp/
+make --no-print-directory -C ../DriveMAC_bsp/
+[BSP build complete]
+[DriveMAC build complete]
+
+22:36:05 Build Finished (took 216ms)
+
